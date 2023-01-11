@@ -9,10 +9,12 @@
     <br>
     <label for="name"><b>name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br>
 
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
